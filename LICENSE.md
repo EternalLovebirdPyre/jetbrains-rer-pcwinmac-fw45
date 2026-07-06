@@ -1,4 +1,4 @@
-# 
+# Actualizado JetBrains Rider plantillas para Mac OS | Oficial JetBrains Rider plantillas para PC Windows. Con depuración SQL y diseñador de tablas — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
